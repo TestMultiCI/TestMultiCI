@@ -3,7 +3,7 @@ language: java
 jdk: oraclejdk8
  
  
-script: echo "1234"
+script: curl http://60.205.215.34/stest_20190117162111_dir/dailyBuild/index.html
 
 
 skip_build:
