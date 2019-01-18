@@ -1,0 +1,13 @@
+sudo: required
+language: java
+jdk: oraclejdk8
+
+
+script: echo "1234"
+
+
+skip_build:
+- README.md：
+- LICENSE
+
+
