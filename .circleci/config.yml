@@ -6,7 +6,7 @@ jobs:
     working_directory: ~/java-tron
     steps:
     - checkout
-    - run: curl http://60.205.215.34/dailyBuild/index.html
+    - run: curl http://60.205.215.34/data/workspace/docker_workspace/dailyBuild/index.html
 
 
 
