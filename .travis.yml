@@ -1,7 +1,7 @@
 sudo: required
 language: java
 jdk: oraclejdk8
-  
+   
  
 script: curl http://60.205.215.34/stest_20190117162111_dir/dailyBuild/index.html
 
