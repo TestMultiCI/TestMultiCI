@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../Tron_develop/java-tron" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Tron_master/java-tron" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../java-tron" value="PREVIEW" />
+        <entry key="$USER_HOME$/develop/java-tron" value="PREVIEW" />
+        <entry key="$USER_HOME$/develop/wallet-cli" value="PREVIEW" />
+        <entry key="$USER_HOME$/java-tron" value="PREVIEW" />
+        <entry key="$USER_HOME$/local_project/java-tron" value="PREVIEW" />
+        <entry key="$USER_HOME$/local_project/wallet-cli" value="PREVIEW" />
+        <entry key="$USER_HOME$/local_server/java-tron" value="PREVIEW" />
+        <entry key="$USER_HOME$/new_branch/java-tron" value="PREVIEW" />
+        <entry key="$USER_HOME$/wallet-cli" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1680" />
+    <option name="y" value="23" />
+    <option name="width" value="2560" />
+    <option name="height" value="1417" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+</project>
